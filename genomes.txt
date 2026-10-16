@@ -1,0 +1,9 @@
+genome Pf3D7v3
+trackDb Pf3D7/trackDb.txt
+description P. falciparum 3D7 v3
+twoBitPath Pf3D7/Pf3D7.2bit
+organism Plasmodium falciparum
+defaultPos Pf3D7_01_v3:1-50000
+orderKey 1
+scientificName Plasmodium falciparum 3D7
+htmlPath Pf3D7/description.html

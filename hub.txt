@@ -1,0 +1,6 @@
+hub Pf3D7_H2BZ
+shortLabel Pf3D7 H2B.Z
+longLabel H2B.Z ChIP-seq schizont, remapped to Pf3D7 v3
+genomesFile genomes.txt
+email mia.heuser@uni-tuebingen.de
+descriptionUrl hubDescription.html

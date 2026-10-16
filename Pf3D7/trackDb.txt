@@ -1,0 +1,27 @@
+track H2BZ_log2
+shortLabel H2B.Z log2(ChIP/Input)
+longLabel H2B.Z ChIP/Input log2 ratio, schizont (GSE39702)
+type bigWig
+bigDataUrl H2BZ_schizont_log2ratio.bw
+visibility full
+autoScale on
+windowingFunction mean
+color 0,100,180
+
+track H2BZ_chip
+shortLabel H2B.Z ChIP
+longLabel H2B.Z ChIP CPM, schizont
+type bigWig
+bigDataUrl H2BZ_chip.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track H2BZ_input
+shortLabel H2B.Z Input
+longLabel Input (MNase) CPM, schizont
+type bigWig
+bigDataUrl H2BZ_input.bw
+visibility full
+autoScale on
+color 120,120,120
