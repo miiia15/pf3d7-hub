@@ -4,8 +4,9 @@ longLabel Pf3D7 gene annotation (PlasmoDB release 68)
 type bigGenePred
 bigDataUrl Pf3D7.genes.bb
 searchIndex name,name2
-labelFields name,name2
-mouseOverField product
+labelFields name,name2,product
+defaultLabelFields name2,product
+labelSeparator " | "
 visibility pack
 priority 1
 
