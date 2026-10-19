@@ -5,6 +5,7 @@ type bigGenePred
 bigDataUrl Pf3D7.genes.bb
 searchIndex name,name2
 labelFields name,name2
+mouseOverField product
 visibility pack
 priority 1
 
