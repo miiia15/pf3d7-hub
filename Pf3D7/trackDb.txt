@@ -37,3 +37,66 @@ bigDataUrl H2BZ_input.bw
 visibility full
 autoScale on
 color 120,120,120
+
+track HP1_ring
+shortLabel HP1 Ring
+longLabel HP1 ChIP-seq, 3D7 Ring (over Schizont Input, GSE102695)
+type bigWig
+bigDataUrl HP1_3D7_Ring.bw
+visibility full
+autoScale on
+color 0,130,60
+
+track HP1_tropho
+shortLabel HP1 Trophozoit
+longLabel HP1 ChIP-seq, 3D7 Trophozoite (over Schizont Input, GSE102695)
+type bigWig
+bigDataUrl HP1_3D7_Trophozoite.bw
+visibility full
+autoScale on
+color 200,120,0
+
+track HP1_schizont
+shortLabel HP1 Schizont
+longLabel HP1 ChIP-seq, 3D7 Schizont (over Schizont Input, GSE102695)
+type bigWig
+bigDataUrl HP1_3D7_Schizont.bw
+visibility full
+autoScale on
+color 150,0,120
+
+track AP2HS_minusCho_rep1_IP
+shortLabel AP2HS 33-38h -Cho R1
+longLabel AP2-HS ChIP-seq, 33-38 hpi, -Cho, replicate 1 (over input, GSE339382)
+type bigWig
+bigDataUrl AP2HS_minusCho_rep1_IP.bw
+visibility full
+autoScale on
+color 200,0,0
+
+track AP2HS_minusCho_rep2_IP
+shortLabel AP2HS 33-38h -Cho R2
+longLabel AP2-HS ChIP-seq, 33-38 hpi, -Cho, replicate 2 (over input, GSE339382)
+type bigWig
+bigDataUrl AP2HS_minusCho_rep2_IP.bw
+visibility full
+autoScale on
+color 255,100,100
+
+track AP2HS_plusCho_rep1_IP
+shortLabel AP2HS 33-38h +Cho R1
+longLabel AP2-HS ChIP-seq, 33-38 hpi, +Cho, replicate 1 (over input, GSE339382)
+type bigWig
+bigDataUrl AP2HS_plusCho_rep1_IP.bw
+visibility full
+autoScale on
+color 0,0,200
+
+track AP2HS_plusCho_rep2_IP
+shortLabel AP2HS 33-38h +Cho R2
+longLabel AP2-HS ChIP-seq, 33-38 hpi, +Cho, replicate 2 (over input, GSE339382)
+type bigWig
+bigDataUrl AP2HS_plusCho_rep2_IP.bw
+visibility full
+autoScale on
+color 0,100,255
