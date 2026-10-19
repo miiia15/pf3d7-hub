@@ -1,3 +1,13 @@
+track genes
+shortLabel PlasmoDB-68 genes
+longLabel Pf3D7 gene annotation (PlasmoDB release 68)
+type bigGenePred
+bigDataUrl Pf3D7.genes.bb
+searchIndex name,name2
+labelFields name,name2
+visibility pack
+priority 1
+
 track H2BZ_log2
 shortLabel H2B.Z log2(ChIP/Input)
 longLabel H2B.Z ChIP/Input log2 ratio, schizont (GSE39702)
