@@ -100,3 +100,273 @@ bigDataUrl AP2HS_plusCho_rep2_IP.bw
 visibility full
 autoScale on
 color 0,100,255
+
+track GSE23867_H3K9ac_30hpi
+shortLabel H3K9ac 30hpi
+longLabel H3K9ac native ChIP-seq, 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_30hpi.bw
+visibility full
+autoScale on
+color 200,80,0
+
+track GSE23867_H2AZ_10hpi
+shortLabel H2AZ 10hpi
+longLabel H2AZ native ChIP-seq, 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_10hpi.bw
+visibility full
+autoScale on
+color 0,130,60
+
+track GSE23867_H2AZ_20hpi
+shortLabel H2AZ 20hpi
+longLabel H2AZ native ChIP-seq, 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_20hpi.bw
+visibility full
+autoScale on
+color 0,130,60
+
+track GSE23867_H2AZ_30hpi
+shortLabel H2AZ 30hpi
+longLabel H2AZ native ChIP-seq, 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_30hpi.bw
+visibility full
+autoScale on
+color 0,130,60
+
+track GSE23867_H2AZ_40hpi
+shortLabel H2AZ 40hpi
+longLabel H2AZ native ChIP-seq, 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_40hpi.bw
+visibility full
+autoScale on
+color 0,130,60
+
+track GSE23867_H2A_40hpi
+shortLabel H2A 40hpi
+longLabel H2A native ChIP-seq, 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2A_40hpi.bw
+visibility full
+autoScale on
+color 120,120,120
+
+track GSE23867_H3K9ac_10hpi
+shortLabel H3K9ac 10hpi
+longLabel H3K9ac native ChIP-seq, 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_10hpi.bw
+visibility full
+autoScale on
+color 200,80,0
+
+track GSE23867_H3K9ac_20hpi
+shortLabel H3K9ac 20hpi
+longLabel H3K9ac native ChIP-seq, 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_20hpi.bw
+visibility full
+autoScale on
+color 200,80,0
+
+track GSE23867_H3K9ac_40hpi
+shortLabel H3K9ac 40hpi
+longLabel H3K9ac native ChIP-seq, 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_40hpi.bw
+visibility full
+autoScale on
+color 200,80,0
+
+track GSE23867_H3K4me3_10hpi
+shortLabel H3K4me3 10hpi
+longLabel H3K4me3 native ChIP-seq, 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_10hpi.bw
+visibility full
+autoScale on
+color 30,80,200
+
+track GSE23867_H3K4me3_20hpi
+shortLabel H3K4me3 20hpi
+longLabel H3K4me3 native ChIP-seq, 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_20hpi.bw
+visibility full
+autoScale on
+color 30,80,200
+
+track GSE23867_H3K4me3_30hpi
+shortLabel H3K4me3 30hpi
+longLabel H3K4me3 native ChIP-seq, 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_30hpi.bw
+visibility full
+autoScale on
+color 30,80,200
+
+track GSE23867_H3K4me3_40hpi
+shortLabel H3K4me3 40hpi
+longLabel H3K4me3 native ChIP-seq, 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_40hpi.bw
+visibility full
+autoScale on
+color 30,80,200
+
+track GSE23867_input_10hpi
+shortLabel input 10hpi
+longLabel input native ChIP-seq, 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl input_10hpi.bw
+visibility full
+autoScale on
+color 100,100,100
+
+track GSE23867_input_20hpi
+shortLabel input 20hpi
+longLabel input native ChIP-seq, 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl input_20hpi.bw
+visibility full
+autoScale on
+color 100,100,100
+
+track GSE23867_input_30hpi
+shortLabel input 30hpi
+longLabel input native ChIP-seq, 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl input_30hpi.bw
+visibility full
+autoScale on
+color 100,100,100
+
+track GSE23867_input_40hpi
+shortLabel input 40hpi
+longLabel input native ChIP-seq, 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl input_40hpi.bw
+visibility full
+autoScale on
+color 100,100,100
+
+track GSE23867_H2AZ_10hpi_log2
+shortLabel H2AZ/in 10hpi
+longLabel H2AZ log2(ChIP/Input), 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_10hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H2AZ_20hpi_log2
+shortLabel H2AZ/in 20hpi
+longLabel H2AZ log2(ChIP/Input), 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_20hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H2AZ_30hpi_log2
+shortLabel H2AZ/in 30hpi
+longLabel H2AZ log2(ChIP/Input), 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_30hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H2AZ_40hpi_log2
+shortLabel H2AZ/in 40hpi
+longLabel H2AZ log2(ChIP/Input), 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2AZ_40hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H2A_40hpi_log2
+shortLabel H2A/in 40hpi
+longLabel H2A log2(ChIP/Input), 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H2A_40hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K9ac_10hpi_log2
+shortLabel H3K9ac/in 10hpi
+longLabel H3K9ac log2(ChIP/Input), 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_10hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K9ac_20hpi_log2
+shortLabel H3K9ac/in 20hpi
+longLabel H3K9ac log2(ChIP/Input), 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_20hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K9ac_30hpi_log2
+shortLabel H3K9ac/in 30hpi
+longLabel H3K9ac log2(ChIP/Input), 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_30hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K9ac_40hpi_log2
+shortLabel H3K9ac/in 40hpi
+longLabel H3K9ac log2(ChIP/Input), 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K9ac_40hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K4me3_10hpi_log2
+shortLabel H3K4me3/in 10hpi
+longLabel H3K4me3 log2(ChIP/Input), 10hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_10hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K4me3_20hpi_log2
+shortLabel H3K4me3/in 20hpi
+longLabel H3K4me3 log2(ChIP/Input), 20hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_20hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K4me3_30hpi_log2
+shortLabel H3K4me3/in 30hpi
+longLabel H3K4me3 log2(ChIP/Input), 30hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_30hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
+
+track GSE23867_H3K4me3_40hpi_log2
+shortLabel H3K4me3/in 40hpi
+longLabel H3K4me3 log2(ChIP/Input), 40hpi, 3D7 (GSE23867)
+type bigWig
+bigDataUrl H3K4me3_40hpi_log2.bw
+visibility full
+autoScale on
+color 0,0,0
